@@ -10,6 +10,7 @@
 #     print("odd")
 # else:
 #     print("even")
+#here is the code of the even or odd
 
 
 
